@@ -22,7 +22,7 @@ Many thanks to [Ian Mac Kinnon](https://github.com/ianmackinnon) :
 I think credit :heart: also goes to the [Pillow](https://pillow.readthedocs.io/en/stable/) Python Imaging framework : what a reliable library, able to work great after twelve years of existence!!
 
 
-I finally care to thank and give credit to the Python community as a whole, every time i was searching for and particularly : 
+I finally care to thank and give credit to the Python community as a whole, every time i was searching for an answer about Python, and particularly : 
 
 * https://stackoverflow.com/questions/20485571/attributeerror-module-object-has-no-attribute-div
 * https://stackoverflow.com/questions/11914472/how-to-use-stringio-in-python3
