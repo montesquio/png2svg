@@ -32,7 +32,7 @@ Note that [Pillow](https://github.com/python-pillow/Pillow) is the main dependen
 
 ## How to test usage
 
-* First, you need `python 3.1+`, and the `make`
+* First, you need `python 3.10+`, and the `make`
 
 * then, you have to first install dependencies of the python project by running : 
 
