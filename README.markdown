@@ -15,7 +15,7 @@ I searched for the answer a few minutes, immediately stopped and turned to the w
 And indeed, I soon found the Starriest Github repo about that : https://github.com/ianmackinnon/png2svg
 
 Many thanks to [Ian Mac Kinnon](https://github.com/ianmackinnon) : 
-* Although it dated back to 12 years ( :awe: ! )
+* Although it dated back to 12 years ( :face_exhaling: ! )
 * It took me only a few minutes to fix the errors caused by outdated python version, and dependencies !! 
 * I do not know how many times you successfully repaired an outdated project which was not updated for twelve years, in less than an hour, that is a first for myself !!
 
